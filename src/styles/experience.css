@@ -1,0 +1,13 @@
+:root {
+  --background-color: #232932;
+  --detail--color: #27c393;
+  --back-elements: #283447;
+  --blue-dark: #3e497a;
+}
+
+.title {
+  font-size: 2.3rem;
+  color: var(--blue-dark);
+  text-align: center;
+  padding: 1rem;
+}
